@@ -1,6 +1,8 @@
 # 🌦️ Weather App
 
 A modern, responsive **Weather App** built using **HTML, CSS, and JavaScript**, allowing users to get live weather updates based on **their current location** or by **searching any city**. The app uses the **OpenWeatherMap API** and includes a clean UI, weather icons, flag integration, and smooth error handling.
+[Try it now!!](https://anshul0k.github.io/Weather-App/)
+
 
 ---
 
